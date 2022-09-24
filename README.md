@@ -35,8 +35,8 @@ Splitting the data into test and train
 
 ##PROGRAM:
 ~~~
-Register Number: 212221240027
-Name: Manoj M
+Register Number: 212221230012
+Name: Barath Kumar J
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
 df.head()
@@ -66,7 +66,7 @@ print(df1)
 ##OUTPUT:
 Dataset:
 
-![1](https://user-images.githubusercontent.com/94588708/191963811-bee2f8c7-ce05-46e9-b28a-fcb8e5aabd25.png)
+![output](1.png)
 
 
 Discribing data:
