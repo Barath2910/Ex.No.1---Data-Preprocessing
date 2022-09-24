@@ -87,7 +87,7 @@ X and Y values:
 
 X_test and Y_test values:
 
-![output](1.png)
+![output](6.png)
 
 ##RESULT:
 
