@@ -86,6 +86,7 @@ X and Y values:
 ![5](https://user-images.githubusercontent.com/94588708/191964357-1401392c-be0f-4221-b4a7-8575fb09d58d.png)
 
 X_test and Y_test values:
+
 ![6](https://user-images.githubusercontent.com/94588708/191964418-f260849e-d19a-4a5c-8f03-efbc22855277.png)
 
 
