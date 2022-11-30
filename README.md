@@ -89,6 +89,6 @@ X_test and Y_test values:
 
 ![output](6.png)
 
-##RESULT:
+## RESULT:
 
 Thus the above program for standardizing the given data was implemented successfully
